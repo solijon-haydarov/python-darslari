@@ -1,0 +1,11 @@
+1-dars: Birinchi dastur
+2-dars: Arifmetik Amallar va Sinteks
+3-dars: O'zgaruvchilar (Variables)
+4-dars: Matn bilan ishlash (Strings)
+5-dars: Sonlar bilan ishlash (Numbers)
+6-dars: Ro'yhatlar (Lists)
+qolgan 4 ta dars amaliy ko'rsatiladi:
+1-dasturlashga kirish
+2-brauzerda kod yozish
+3-Anacondani o'rnatish
+4-kod yozish muhitini sozlash
